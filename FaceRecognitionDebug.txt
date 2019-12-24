@@ -1,0 +1,86 @@
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
+Loaded cascade[0]
+Loaded cascade[1]
+Capture Device ID 0 has been opened.
+camera width: 640  height: 480
